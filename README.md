@@ -1,7 +1,7 @@
 # TCP-UDP-chat-clients
 TCP/UDP Chat client projects
 
-This client allows two users to communicate to each other through TCP and UDP connections, and has various functions in each.
+This client allows multiple users to communicate to each other through TCP and UDP connections, and has various functions in each.
 
 TCP: The TCP chat client allows users to follow certain users and topics, as well as send attachments over the TCP connection.
 
